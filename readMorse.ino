@@ -1,4 +1,4 @@
-#define dotduration 10
+#define dotduration 300
 unsigned long time;
 int LDRpin = A5;
 int durationOn = 0;
